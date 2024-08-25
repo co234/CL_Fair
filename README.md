@@ -6,13 +6,15 @@ Discrimination can occur when the underlying unbiased la- bels are overwritten b
 
 ## Reference
 ```
-@article{Zhang_Li_Ling_Zhou_2024, title={Mitigating Label Bias in Machine Learning: Fairness through Confident Learning}, 
-        volume={38}, 
-        url={https://ojs.aaai.org/index.php/AAAI/article/view/29634}, DOI={10.1609/aaai.v38i15.29634}, 
-        number={15}, 
-        journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-        author={Zhang, Yixuan and Li, Boyu and Ling, Zenan and Zhou, Feng}, 
-        year={2024}, 
-        month={Mar.}, 
-        pages={16917-16925} }
+@article{Zhang_Li_Ling_Zhou_2024,
+ title={Mitigating Label Bias in Machine Learning: Fairness through Confident Learning}, 
+ volume={38}, 
+ url={https://ojs.aaai.org/index.php/AAAI/article/view/29634},
+ DOI={10.1609/aaai.v38i15.29634}, 
+ number={15}, 
+ journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+ author={Zhang, Yixuan and Li, Boyu and Ling, Zenan and Zhou, Feng}, 
+ year={2024}, 
+ month={Mar.}, 
+ pages={16917-16925} }
 ```
